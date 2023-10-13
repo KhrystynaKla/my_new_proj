@@ -7,7 +7,7 @@ fetch('http://localhost:3000/foods')
     });
 })
 
-const ul = document.getElementById()
+const ul = document.getElementById('list')
 console.log(ul)
 function addBurgerToList(element){
     const li = document.createElement('li')
