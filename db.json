@@ -1,0 +1,24 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "price": "4.99"
+    },
+    {
+      "id": 2,
+      "name": "2 Burger",
+      "price": "5.99"
+    },
+    {
+      "id": 3,
+      "name": "3 Burger",
+      "price": "6.99"
+    },
+    {
+      "id": 4,
+      "name": "4 Burger",
+      "price": "7.99"
+    }
+  ]
+}
